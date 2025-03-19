@@ -1,0 +1,77 @@
+{
+  /* ---------- TRADUÇÕES DO HEADER ---------- */
+  "header": {
+    "home": {
+      "pt": "Página Inicial",
+      "en": "Home",
+      "es": "Inicio",
+      "fr": "Page d'accueil",
+      "it": "Home",
+      "de": "Startseite"
+    },
+    "sobreNos": {
+      "pt": "Sobre Nós",
+      "en": "About Us",
+      "es": "Sobre Nosotros",
+      "fr": "À propos de nous",
+      "it": "Chi siamo",
+      "de": "Über uns"
+    },
+    "noticias": {
+      "pt": "Notícias",
+      "en": "News",
+      "es": "Noticias",
+      "fr": "Actualités",
+      "it": "Notizie",
+      "de": "Nachrichten"
+    },
+    "publicacoes": {
+      "pt": "Publicações",
+      "en": "Publications",
+      "es": "Publicaciones",
+      "fr": "Publications",
+      "it": "Pubblicazioni",
+      "de": "Publikationen"
+    },
+    "capacitacao": {
+      "pt": "Capacitação",
+      "en": "Training",
+      "es": "Capacitación",
+      "fr": "Formation",
+      "it": "Formazione",
+      "de": "Schulung"
+    },
+    "nossoProposito": {
+      "pt": "Nosso Propósito",
+      "en": "Our Purpose",
+      "es": "Nuestro Propósito",
+      "fr": "Notre objectif",
+      "it": "Il nostro scopo",
+      "de": "Unser Zweck"
+    },
+    "membros": {
+      "pt": "Membros",
+      "en": "Members",
+      "es": "Miembros",
+      "fr": "Membres",
+      "it": "Membri",
+      "de": "Mitglieder"
+    },
+    "contatos": {
+      "pt": "Contatos",
+      "en": "Contacts",
+      "es": "Contactos",
+      "fr": "Contacts",
+      "it": "Contatti",
+      "de": "Kontakte"
+    },
+    "artigos": {
+      "pt": "Artigos",
+      "en": "Articles",
+      "es": "Artículos",
+      "fr": "Articles",
+      "it": "Articoli",
+      "de": "Artikel"
+    }
+  }
+}

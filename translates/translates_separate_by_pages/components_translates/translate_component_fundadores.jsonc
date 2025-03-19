@@ -1,0 +1,29 @@
+{
+  /* ---------- FUNDADORES ---------- */
+  "fundadores": {
+    "dra": {
+      "pt": "Dra.",
+      "en": "Dr.",
+      "es": "Dra.",
+      "fr": "Dr.",
+      "it": "Dr.",
+      "de": "Dr."
+    },
+    "cargo": {
+      "pt": "Coordenadora Geral",
+      "en": "General Coordinator",
+      "es": "Coordinadora General",
+      "fr": "Coordinatrice générale",
+      "it": "Coordinatore generale",
+      "de": "Generalkoordinatorin"
+    },
+    "nossaEquipe": {
+      "pt": "Nossa Equipe",
+      "en": "Our Team",
+      "es": "Nuestro Equipo",
+      "fr": "Notre équipe",
+      "it": "Il nostro team",
+      "de": "Unser Team"
+    }
+  }
+}

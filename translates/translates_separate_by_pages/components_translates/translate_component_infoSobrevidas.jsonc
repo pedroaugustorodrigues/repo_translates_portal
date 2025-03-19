@@ -1,0 +1,29 @@
+{
+  /* ---------- TRADUÇÕES DO INFO SOBREVIDAS ---------- */
+  "infoSobrevidas": {
+    "o_que_e_sobrevidas": {
+      "pt": "O que é SobreVidas?",
+      "en": "What is SobreVidas?",
+      "es": "¿Qué es SobreVidas?",
+      "fr": "Qu'est-ce que SobreVidas ?",
+      "it": "Che cos'è SobreVidas?",
+      "de": "Was ist SobreVidas?"
+    },
+    "sobrevidas_descricao": {
+      "pt": "SobreVidas é mais do que tecnologia, é um compromisso com a vida, garantindo que a prevenção do câncer de boca chegue a quem mais precisa!",
+      "en": "SobreVidas is more than technology, it’s a commitment to life, ensuring that mouth cancer prevention reaches those who need it the most!",
+      "es": "SobreVidas es más que tecnología, es un compromiso con la vida, asegurando que la prevención del cáncer de boca llegue a quienes más lo necesitan!",
+      "fr": "SobreVidas est plus qu'une technologie, c'est un engagement envers la vie, garantissant que la prévention du cancer buccal parvienne à ceux qui en ont le plus besoin !",
+      "it": "SobreVidas è più di una tecnologia, è un impegno verso la vita, garantendo che la prevenzione del cancro orale arrivi a chi ne ha più bisogno!",
+      "de": "SobreVidas ist mehr als Technologie, es ist ein Engagement für das Leben, das sicherstellt, dass die Mundkrebsprävention denen zugutekommt, die sie am meisten brauchen!"
+    },
+    "nosso_proposito": {
+      "pt": "Nosso Propósito",
+      "en": "Our Purpose",
+      "es": "Nuestro Propósito",
+      "fr": "Notre objectif",
+      "it": "Il nostro scopo",
+      "de": "Unser Zweck"
+    }
+  }
+}

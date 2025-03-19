@@ -1,0 +1,79 @@
+/* ---------- TRADUÇÕES ÚNICAS[Ingles] ---------- */
+
+{
+    "pt": {
+    /* ---------- PAGES ---------- */
+
+    /* ---------- PAGES[Home] ---------- */
+    "home": {
+        "titulo_sobrevidas": "Sobrevidas",
+        "descricao_sobrevidas": "Lip, oral cavity and oropharyngeal cancer prevention program: intervention process and cost-effectiveness",
+        "publicacoes_recentes": "Recent Publications",
+        "coordenadora": "Our Coordinator"
+    },
+    /* ---------- PAGES[Capacitacoes] ---------- */
+    "capacitacoes": {
+        "titulo": "Training"
+    },
+    /* ---------- PAGES[Noticias] ---------- */
+    "noticias": {
+        "titulo": "News"
+    },
+    /* ---------- PAGES[Resultados] ---------- */
+    "resultados": {
+        "artigos": {
+            "titulo": "Scientific Articles"
+        },
+        "ebooks": {
+            "titulo": "E-books"
+        }
+    },
+    /* ---------- PAGES[SobreNos] ---------- */
+    "sobrenos": {
+        "sobrenos": {
+            "titulo": "About Us"
+        },
+        "membros": {
+            "titulo": "Members"
+        },
+        "contatos": {
+            "titulo": "Contacts",
+            "redesSociais": {
+                "titulo": "Social Media"
+            },
+            "cGisUfg": {
+                "email": "Email: saude.ufg@gmail.com",
+                "endereco": "CGIS-UFG Room: 1st floor, SIASS-UFG building"
+            }
+        }
+    },
+    /* ---------- COMPONENTS ---------- */
+
+    /* ---------- COMPONENTS[Header] ---------- */
+      "header": {
+        "home": "Home",
+        "sobreNos": "About Us",
+        "noticias": "News",
+        "publicacoes": "Publications",
+        "capacitacao": "Training",
+        "nossoProposito": "Our Purpose",
+        "membros": "Members",
+        "contatos": "Contacts",
+        "artigos": "Articles",
+        "ebooks": "E-books"
+      },
+      /* ---------- COMPONENTS[HomeData] ---------- */
+      "infoSobrevidas": {
+        "o_que_e_sobrevidas": "What is Sobrevidas?",
+        "sobrevidas_descricao": "Sobrevidas is a program that aims to prevent lip, oral cavity and oropharyngeal cancer through the promotion of health and the prevention of risk factors.",
+        "nosso_proposito": "Our Purpose"
+      },
+      /* ---------- COMPONENTS[Fundadores] ---------- */
+      "fundadores": {
+        "titulo": "Dr.",
+        "cargo": "General Coordinator",
+        "nossa_equipe": "Our Team"
+      }
+    }
+  }
+  

@@ -1,0 +1,79 @@
+/* ---------- TRADUÇÕES ÚNICAS[Frances] ---------- */
+
+{
+    "fr": {
+      /* ---------- PAGES ---------- */
+  
+      /* ---------- PAGES[Home] ---------- */
+      "home": {
+        "titulo_sobrevidas": "Sobrevidas",
+        "descricao_sobrevidas": "Programme de prévention du cancer des lèvres, de la cavité orale et de l'oropharynx : processus d'intervention et coût-efficacité",
+        "publicacoes_recentes": "Publications Récentes",
+        "coordenadora": "Notre Coordinatrice"
+      },
+      /* ---------- PAGES[Capacitacoes] ---------- */
+      "capacitacoes": {
+        "titulo": "Formation"
+      },
+      /* ---------- PAGES[Noticias] ---------- */
+      "noticias": {
+        "titulo": "Actualités"
+      },
+      /* ---------- PAGES[Resultados] ---------- */
+      "resultados": {
+        "artigos": {
+          "titulo": "Articles Scientifiques"
+        },
+        "ebooks": {
+          "titulo": "E-books"
+        }
+      },
+      /* ---------- PAGES[SobreNos] ---------- */
+      "sobrenos": {
+        "sobrenos": {
+          "titulo": "À Propos de Nous"
+        },
+        "membros": {
+          "titulo": "Membres"
+        },
+        "contatos": {
+          "titulo": "Contacts",
+          "redesSociais": {
+            "titulo": "Réseaux Sociaux"
+          },
+          "cGisUfg": {
+            "email": "Email: saude.ufg@gmail.com",
+            "endereco": "Salle CGIS-UFG : 1er étage, bâtiment SIASS-UFG"
+          }
+        }
+      },
+      /* ---------- COMPONENTS ---------- */
+  
+      /* ---------- COMPONENTS[Header] ---------- */
+      "header": {
+        "home": "Accueil",
+        "sobreNos": "À Propos de Nous",
+        "noticias": "Actualités",
+        "publicacoes": "Publications",
+        "capacitacao": "Formation",
+        "nossoProposito": "Notre Objectif",
+        "membros": "Membres",
+        "contatos": "Contacts",
+        "artigos": "Articles",
+        "ebooks": "E-books"
+      },
+      /* ---------- COMPONENTS[HomeData] ---------- */
+      "infoSobrevidas": {
+        "o_que_e_sobrevidas": "Qu'est-ce que Sobrevidas ?",
+        "sobrevidas_descricao": "Sobrevidas est un programme visant à prévenir le cancer des lèvres, de la cavité orale et de l'oropharynx par la promotion de la santé et la prévention des facteurs de risque.",
+        "nosso_proposito": "Notre Objectif"
+      },
+      /* ---------- COMPONENTS[Fundadores] ---------- */
+      "fundadores": {
+        "titulo": "Dr.",
+        "cargo": "Coordinatrice Générale",
+        "nossa_equipe": "Notre Équipe"
+      }
+    }
+  }
+  

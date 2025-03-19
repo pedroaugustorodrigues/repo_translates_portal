@@ -1,0 +1,37 @@
+{
+  /* ---------- HOME ---------- */
+  "home": {
+    "sobrevidas": {
+      "pt": "Sobrevidas",
+      "en": "Survivals",
+      "es": "Sobrevidas",
+      "fr": "Survivants",
+      "it": "Sopravvivenze",
+      "de": "Überlebende"
+    },
+    "descricao": {
+      "pt": "Programa de prevenção do câncer de lábio, de cavidade oral e de orofaringe: processo de intervenção e custo-efetividade",
+      "en": "Prevention program for lip, oral cavity, and oropharyngeal cancer: intervention process and cost-effectiveness",
+      "es": "Programa de prevención del cáncer de labio, cavidad oral y orofaringe: proceso de intervención y costo-efectividad",
+      "fr": "Programme de prévention du cancer des lèvres, de la cavité buccale et de l'oropharynx : processus d'intervention et rentabilité",
+      "it": "Programma di prevenzione per il cancro delle labbra, della cavità orale e dell'orofaringe: processo di intervento e costo-efficacia",
+      "de": "Präventionsprogramm für Lippen-, Mundhöhlen- und Oropharynxkrebs: Interventionsprozess und Kosteneffektivität"
+    },
+    "publicacoes": {
+      "pt": "Publicações Recentes",
+      "en": "Recent Publications",
+      "es": "Publicaciones Recientes",
+      "fr": "Publications récentes",
+      "it": "Pubblicazioni recenti",
+      "de": "Aktuelle Veröffentlichungen"
+    },
+    "coordenadora": {
+      "pt": "Nossa Coordenadora",
+      "en": "Our Coordinator",
+      "es": "Nuestra Coordinadora",
+      "fr": "Notre coordinatrice",
+      "it": "Il nostro coordinatore",
+      "de": "Unsere Koordinatorin"
+    }
+  }
+}

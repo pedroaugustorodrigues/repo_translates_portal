@@ -1,0 +1,79 @@
+/* ---------- TRADUÇÕES ÚNICAS[Alemão] ---------- */
+
+{
+    "de": {
+      /* ---------- PAGES ---------- */
+  
+      /* ---------- PAGES[Home] ---------- */
+      "home": {
+        "titulo_sobrevidas": "Sobrevidas",
+        "descricao_sobrevidas": "Programm zur Prävention von Lippen-, Mundhöhlen- und Rachenkrebs: Interventionsprozess und Kosten-Effektivität",
+        "publicacoes_recentes": "Aktuelle Veröffentlichungen",
+        "coordenadora": "Unsere Koordinatorin"
+      },
+      /* ---------- PAGES[Capacitacoes] ---------- */
+      "capacitacoes": {
+        "titulo": "Schulung"
+      },
+      /* ---------- PAGES[Noticias] ---------- */
+      "noticias": {
+        "titulo": "Nachrichten"
+      },
+      /* ---------- PAGES[Resultados] ---------- */
+      "resultados": {
+        "artigos": {
+          "titulo": "Wissenschaftliche Artikel"
+        },
+        "ebooks": {
+          "titulo": "E-Books"
+        }
+      },
+      /* ---------- PAGES[SobreNos] ---------- */
+      "sobrenos": {
+        "sobrenos": {
+          "titulo": "Über Uns"
+        },
+        "membros": {
+          "titulo": "Mitglieder"
+        },
+        "contatos": {
+          "titulo": "Kontakte",
+          "redesSociais": {
+            "titulo": "Soziale Medien"
+          },
+          "cGisUfg": {
+            "email": "Email: saude.ufg@gmail.com",
+            "endereco": "CGIS-UFG Raum: 1. Etage, SIASS-UFG Gebäude"
+          }
+        }
+      },
+      /* ---------- COMPONENTS ---------- */
+  
+      /* ---------- COMPONENTS[Header] ---------- */
+      "header": {
+        "home": "Startseite",
+        "sobreNos": "Über Uns",
+        "noticias": "Nachrichten",
+        "publicacoes": "Veröffentlichungen",
+        "capacitacao": "Schulung",
+        "nossoProposito": "Unser Ziel",
+        "membros": "Mitglieder",
+        "contatos": "Kontakte",
+        "artigos": "Artikel",
+        "ebooks": "E-Books"
+      },
+      /* ---------- COMPONENTS[HomeData] ---------- */
+      "infoSobrevidas": {
+        "o_que_e_sobrevidas": "Was ist Sobrevidas?",
+        "sobrevidas_descricao": "Sobrevidas ist ein Programm zur Prävention von Lippen-, Mundhöhlen- und Rachenkrebs durch Gesundheitsförderung und Prävention von Risikofaktoren.",
+        "nosso_proposito": "Unser Ziel"
+      },
+      /* ---------- COMPONENTS[Fundadores] ---------- */
+      "fundadores": {
+        "titulo": "Dr.",
+        "cargo": "Generalkoordinator",
+        "nossa_equipe": "Unser Team"
+      }
+    }
+  }
+  

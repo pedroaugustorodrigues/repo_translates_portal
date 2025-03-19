@@ -1,0 +1,27 @@
+{
+  /* ---------- RESULTADOS ---------- */
+  
+  /* ---------- ARTIGOS CIENTÍFICOS ---------- */
+  "artigos": {
+    "titulo": {
+      "pt": "Artigos Científicos",
+      "en": "Scientific Articles",
+      "es": "Artículos Científicos",
+      "fr": "Articles scientifiques",
+      "it": "Articoli scientifici",
+      "de": "Wissenschaftliche Artikel"
+    }
+  },
+
+  /* ---------- E-BOOKS ---------- */
+  "ebooks": {
+    "titulo": {
+      "pt": "E-books",
+      "en": "E-books",
+      "es": "E-books",
+      "fr": "E-books",
+      "it": "E-books",
+      "de": "E-Books"
+    }
+  }
+}

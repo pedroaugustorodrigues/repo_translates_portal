@@ -1,0 +1,79 @@
+/* ---------- TRADUÇÕES ÚNICAS[Espanhol] ---------- */
+
+{
+    "es": {
+      /* ---------- PAGES ---------- */
+  
+      /* ---------- PAGES[Home] ---------- */
+      "home": {
+        "titulo_sobrevidas": "Sobrevidas",
+        "descricao_sobrevidas": "Programa de prevención del cáncer de labios, cavidad oral y orofaringe: proceso de intervención y costo-efectividad",
+        "publicacoes_recentes": "Publicaciones Recientes",
+        "coordenadora": "Nuestra Coordinadora"
+      },
+      /* ---------- PAGES[Capacitacoes] ---------- */
+      "capacitacoes": {
+        "titulo": "Capacitación"
+      },
+      /* ---------- PAGES[Noticias] ---------- */
+      "noticias": {
+        "titulo": "Noticias"
+      },
+      /* ---------- PAGES[Resultados] ---------- */
+      "resultados": {
+        "artigos": {
+          "titulo": "Artículos Científicos"
+        },
+        "ebooks": {
+          "titulo": "E-books"
+        }
+      },
+      /* ---------- PAGES[SobreNos] ---------- */
+      "sobrenos": {
+        "sobrenos": {
+          "titulo": "Sobre Nosotros"
+        },
+        "membros": {
+          "titulo": "Miembros"
+        },
+        "contatos": {
+          "titulo": "Contactos",
+          "redesSociais": {
+            "titulo": "Redes Sociales"
+          },
+          "cGisUfg": {
+            "email": "Email: saude.ufg@gmail.com",
+            "endereco": "Sala de CGIS-UFG: 1° piso, edificio SIASS-UFG"
+          }
+        }
+      },
+      /* ---------- COMPONENTS ---------- */
+  
+      /* ---------- COMPONENTS[Header] ---------- */
+      "header": {
+        "home": "Inicio",
+        "sobreNos": "Sobre Nosotros",
+        "noticias": "Noticias",
+        "publicacoes": "Publicaciones",
+        "capacitacao": "Capacitación",
+        "nossoProposito": "Nuestro Propósito",
+        "membros": "Miembros",
+        "contatos": "Contactos",
+        "artigos": "Artículos",
+        "ebooks": "E-books"
+      },
+      /* ---------- COMPONENTS[HomeData] ---------- */
+      "infoSobrevidas": {
+        "o_que_e_sobrevidas": "¿Qué es Sobrevidas?",
+        "sobrevidas_descricao": "Sobrevidas es un compromiso con la vida, garantizando que la prevención del cáncer de boca llegue a quienes más lo necesitan.",
+        "nosso_proposito": "Nuestro Propósito"
+      },
+      /* ---------- COMPONENTS[Fundadores] ---------- */
+      "fundadores": {
+        "titulo": "Dra.",
+        "cargo": "Coordinadora General",
+        "nossa_equipe": "Nuestro Equipo"
+      }
+    }
+  }
+  

@@ -1,0 +1,13 @@
+{
+  /* ---------- CAPACITAÇÕES ---------- */
+  "capacitacoes": {
+    "titulo": {
+      "pt": "Capacitação",
+      "en": "Training",
+      "es": "Capacitación",
+      "fr": "Formation",
+      "it": "Formazione",
+      "de": "Schulung"
+    }
+  }
+}

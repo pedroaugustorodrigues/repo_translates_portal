@@ -1,0 +1,67 @@
+{
+  /* ---------- SOBRENOS ---------- */
+
+  /* ---------- SOBRE NOS ---------- */
+  "sobrenos": {
+    "titulo": {
+      "pt": "Sobre Nós",
+      "en": "About Us",
+      "es": "Sobre Nosotros",
+      "fr": "À propos de nous",
+      "it": "Chi siamo",
+      "de": "Über uns"
+    }
+  },
+
+  /* ---------- MEMBROS ---------- */
+  "membros": {
+    "titulo": {
+      "pt": "Membros",
+      "en": "Members",
+      "es": "Miembros",
+      "fr": "Membres",
+      "it": "Membri",
+      "de": "Mitglieder"
+    }
+  },
+
+  /* ---------- CONTATOS ---------- */
+  "contatos": {
+    "titulo": {
+      "pt": "Contatos",
+      "en": "Contacts",
+      "es": "Contactos",
+      "fr": "Contacts",
+      "it": "Contatti",
+      "de": "Kontakte"
+    },
+    "redesSociais": {
+      "titulo": {
+        "pt": "Redes Sociais",
+        "en": "Social Networks",
+        "es": "Redes Sociales",
+        "fr": "Réseaux sociaux",
+        "it": "Reti sociali",
+        "de": "Soziale Netzwerke"
+      }
+    },
+    "cGisUfg": {
+      "email": {
+        "pt": "Email: saude.ufg@gmail.com",
+        "en": "Email: saude.ufg@gmail.com",
+        "es": "Correo electrónico: saude.ufg@gmail.com",
+        "fr": "Email : saude.ufg@gmail.com",
+        "it": "Email: saude.ufg@gmail.com",
+        "de": "E-Mail: saude.ufg@gmail.com"
+      },
+      "endereco": {
+        "pt": "Sala da CGIS-UFG: 1° andar, prédio do SIASS-UFG",
+        "en": "CGIS-UFG Room: 1st floor, SIASS-UFG building",
+        "es": "Sala del CGIS-UFG: 1er piso, edificio SIASS-UFG",
+        "fr": "Salle du CGIS-UFG : 1er étage, bâtiment SIASS-UFG",
+        "it": "Sala del CGIS-UFG: 1° piano, edificio SIASS-UFG",
+        "de": "Raum CGIS-UFG: 1. Etage, SIASS-UFG Gebäude"
+      }
+    }
+  }
+}
